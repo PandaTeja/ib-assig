@@ -1,0 +1,129 @@
+.Rectangle {
+  width: 240px;
+  height: 1024px;
+  margin: 0 48px 0 0;
+  padding: 12px 1px 235px;
+  border: solid 1px blue;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  background: white;
+  position: absolute;
+  top: 0px;
+  left: 44px;
+}
+
+.imglogo {
+  width: 48px;
+  height: 48px;
+  margin-left: 29px;
+  object-fit: contain;
+}
+.MenuRow {
+  width: 238px;
+  height: 32px;
+  margin: 2px 0 24px;
+  padding: 8px 70px 8px 23px;
+  background-color: white;
+}
+.Text {
+  width: 77px;
+  height: 16px;
+  color: grey;
+  font-family: HKGrotesk;
+  font-size: 10px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 0.12px;
+}
+.Following-Domains {
+  width: 131px;
+  height: 16px;
+  margin: 11px 12px 12px 23px;
+  font-family: HKGrotesk;
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 0.12px;
+  color: grey;
+}
+.img-arrow {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  margin-left: 40px;
+  margin-top: 10px;
+}
+.NameText {
+  width: 78px;
+  height: 24px;
+  margin: 8px 64px 8px 24px;
+  font-family: HKGrotesk;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  color: var(--dark-blue-grey);
+}
+.SeeText {
+  width: 42px;
+  height: 24px;
+  margin: 12px 100px 24px 24px;
+  font-family: HKGrotesk;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  color: var(--dark-blue-grey);
+}
+.Text-link {
+  width: 36px;
+  height: 16px;
+  margin: 12px 0 12px 24px;
+  font-family: HKGrotesk;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: blue;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  margin-right: 40px;
+}
+.Text-Cancel {
+  width: 36px;
+  height: 16px;
+  margin: 12px 0 12px 24px;
+  font-family: HKGrotesk;
+  font-size: 10px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: red;
+}
+.span6 {
+  width: 24px;
+  height: 16px;
+  font-family: Rubik;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 0.12px;
+  color: blue;
+}

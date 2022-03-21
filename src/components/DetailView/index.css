@@ -1,0 +1,64 @@
+.imgTask {
+  width: 336px;
+  height: 371px;
+  margin: 16px 32px 32px 48px;
+  padding: 16px 16px 24px;
+  object-fit: contain;
+  position: relative;
+  width: 100%;
+}
+.head-text {
+  position: relative;
+}
+.text-on-image {
+  position: absolute;
+  right: 50%;
+  left: 44%;
+  top: 10%;
+}
+.imgDP {
+  width: 32px;
+  height: 32px;
+  margin: 32px 179px 0 0;
+  object-fit: contain;
+  position: absolute;
+  right: 50%;
+  left: 44%;
+  bottom: 20%;
+}
+.PrimaryDefault {
+  position: absolute;
+  right: 50%;
+  left: 57%;
+  bottom: 20%;
+  text-align: center;
+  border-radius: 4px;
+  text-align: center;
+  background-color: white;
+}
+.Write-Post {
+  width: 75px;
+  height: 35px;
+  border-width: 0px;
+  font-size: 10px;
+  font-weight: 400;
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+  background-color: blue;
+}
+.msg {
+  width: 14px;
+  height: 14px;
+  margin: 6px 4px 4px 0;
+  object-fit: contain;
+  background-color: bright-blue;
+}
+.icon_msg {
+  position: absolute;
+  right: 50%;
+  left: 60%;
+  bottom: 31%;
+  display: flex;
+  flex-direction: row;
+}

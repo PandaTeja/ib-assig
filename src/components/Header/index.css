@@ -1,0 +1,83 @@
+.Rectangle {
+  width: 75%;
+  height: 73px;
+  margin: 0 0 24px 239px;
+  padding: 13px 78px 12px 49px;
+  border: solid 1px var(--light-blue-grey);
+  background-color: var(--white);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: absolute;
+  top: 0px;
+  left: 150px;
+}
+.field {
+  width: 548px;
+  height: 40px;
+  margin: 4px 224px 4px 0;
+  padding: 8px 556px 8px 16px;
+  border-radius: 3px;
+  border: solid 1px var(--light-blue-grey);
+  background-color: var(--white);
+}
+.field {
+  width: 648px;
+  height: 40px;
+  margin: 4px 224px 4px 0;
+  padding: 8px 556px 8px 16px;
+  border-radius: 3px;
+  border: solid 1px var(--light-blue-grey);
+  border-style: solid;
+  border-color: #dfe6e0;
+  background-color: white;
+}
+.Icon {
+  width: 12px;
+  height: 12px;
+  background-color: var(--dark-blue-grey);
+}
+.place {
+  display: flex;
+  flex-direction: row;
+}
+.search {
+  width: 44px;
+  height: 24px;
+  margin: 0 0 0 16px;
+  opacity: 0.8;
+  font-family: HKGrotesk;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  color: var(--light-shaded-gray);
+}
+.PrimaryDefault {
+  width: 126px;
+  height: 40px;
+
+  border-radius: 4px;
+  text-align: center;
+  background-color: blue;
+}
+.Write-Post {
+  width: 66px;
+  text-align: center;
+  height: 24px;
+  font-family: HKGrotesk;
+  font-size: 12px;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  color: white;
+}
+.img-PersonM {
+  width: 48px;
+  height: 48px;
+  margin: 0 0 0 48px;
+}
